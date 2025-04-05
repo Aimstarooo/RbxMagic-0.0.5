@@ -1,5 +1,7 @@
---Tworzenie Gui i roznych innych rzeczy
+    game.StarterGui:SetCore("SendNotification", {Title="Script OutDated"; Text="Get New Version Of Scipt !"; Duration=2;})
 
+end
+end)
 local RbxMagic = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local UICorner = Instance.new("UICorner")
